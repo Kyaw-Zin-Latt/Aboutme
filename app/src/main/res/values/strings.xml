@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Android Developer</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi,I am Kyawzinlatt.
+    \n\n I love Programming.
+    \n\n I can not live without you.
+    \n What you give is what you get.
+    \nNever Stop,Never give.
+    \nIf you want to get successful result , need to do everyday regularly.
+    \n Successful result is not easy to get it.
+    \n\n I have one of lover.Her name is Eaintchuemon.
+    \n\n Thanks for reading this content.
+    \n See you.
+    \n Have a nice day.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
